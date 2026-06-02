@@ -36,6 +36,10 @@ const muhammedSwalih = {
   brandIdeas  : ["Embaric", "CaseCart", "Edge of Art", "Pagify"],
   mindset     : "Start simple, then go deep. Build for production. Think like an architect."
 };
+```
+
+---
+
 🚀 Featured Projects
 <div align="center">
 🗂️ Project	📝 Description	🛠️ Stack	🔗 Links
