@@ -1,80 +1,38 @@
-<h1 align="center">Hi, I'm Muhammed Swalih 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Backend Developer · MERN Stack · Kerala, India</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammed%20Swalih&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20(in%20training)%20%7C%20MERN%20%7C%20Future%20Software%20Architect&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=👋+Hey+there!+I'm+Swalih+(Bro/Beo);🌱+Backend+Engineer+in+Training;⚡+MERN+%7C+Node.js+%7C+Express.js;🎯+Goal:+15+LPA+%26+Software+Architect;🏗️+Building+Scalable+Systems;🎨+Artist+%26+Developer" alt="Typing SVG" />
 
----
+<br/>
 
-## About Me
+<img src="https://komarev.com/ghpvc/?username=MuhammedSwalih&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/MuhammedSwalih?style=for-the-badge&color=0e75b6&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Backend%20Dev-brightgreen?style=for-the-badge" alt="Focus"/>
 
-I'm an aspiring Backend Developer from Kerala, India, on a focused journey to become a Senior Software Architect. With a background in Arabic and English studies, I bring a unique perspective to problem-solving — precise, structured, and detail-oriented.
+</div>
 
-I'm currently mastering the **MERN stack** with a strong emphasis on backend systems, API design, and scalable architecture. My long-term vision is to build production-grade SaaS products and lead engineering teams.
+<br/>
 
 ---
 
-## 🛠 Tech Stack
+## 🧑‍💻 About Me
 
-| Area | Technologies |
-|---|---|
-| **Backend** | Node.js · Express.js · REST APIs |
-| **Database** | MongoDB · Mongoose |
-| **Frontend** | React · JavaScript (ES6+) · HTML · CSS |
-| **CS Fundamentals** | Data Structures · Algorithms · System Design |
-| **Tools** | Git · GitHub · Postman · VS Code |
+I'm a passionate MERN stack developer from **Malappuram, Kerala**, on a mission to become a strong backend engineer and eventually a software architect. I love breaking down complex systems, learning how they work at scale, and building things that solve real problems—whether it's a SaaS product or my next startup idea.
 
----
+I come from a unique background (BA in Arabic + English) and I bring that same discipline for structure and language into my code. I'm looking for a mentor or a learning environment that can guide me toward that **15+ LPA** role and FAANG-level engineering thinking.
 
-## 🗺 Roadmap
-
-- [x] Master JavaScript fundamentals
-- [x] Build projects with Node.js & Express
-- [ ] Complete full MERN stack mastery
-- [ ] Solve 300+ DSA problems
-- [ ] Deep-dive into System Design patterns
-- [ ] Launch a scalable SaaS product
-- [ ] Reach Senior Software Architect level
-
----
-
-## 💡 What Drives Me
-
-- **Scalable Architecture** — I'm obsessed with systems that handle growth gracefully
-- **Continuous Learning** — Every project is a deliberate step toward mastery
-- **Startups** — I want to build products that create real-world impact
-- **Problem Solving** — DSA and logical thinking are daily disciplines for me
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=default" width="48%" />
-</p>
-
----
-
-## 📬 Let's Connect
-
-I'm actively looking for **backend roles, internships, and open-source collaborations**.
-
-If you're building something interesting or just want to talk about software architecture and startups — reach out.
-
-> *"From Arabic literature to software architecture — every language teaches you to think differently."*
-
----
-
-<p align="center">
-  <i>Currently building · Always learning · Open to opportunities</i>
-</p>
+```javascript
+const muhammedSwalih = {
+  aka         : ["Bro", "Beo"],
+  role        : "Backend Engineer (in training)",
+  location    : "Malappuram, Kerala, India",
+  education   : ["BA in Arabic", "Studied English"],
+  stack       : ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "MongoDB"],
+  learning    : ["DSA", "System Design", "Scalable Web Apps", "Backend Architecture"],
+  goals       : ["15+ LPA", "Software Architect", "SaaS Founder"],
+  brandIdeas  : ["Embaric", "CaseCart", "Edge of Art", "Pagify"],
+  mindset     : "Start simple, then go deep. Build for production. Think like an architect."
+};
