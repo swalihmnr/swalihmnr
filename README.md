@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammed%20Swalih&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20(in%20training)%20%7C%20MERN%20%7C%20Future%20Software%20Architect&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=👋+Hey+there!+I'm+Swalih;🌱+Backend+Engineer;⚡+MERN+%7C+Node.js+%7C+Express.js;🎯+Goal:+15+LPA+%26+Software+Architect;🏗️+Building+Scalable+Systems;🎨+Artist+%26+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=👋+Hey+there!+I'm+Swalih;🌱+Backend+Engineer;⚡+MERN+%7C+Node.js+%7C+Express.js;🏗️+Building+Scalable+Systems;Developer" alt="Typing SVG" />
 
 <br/>
 
