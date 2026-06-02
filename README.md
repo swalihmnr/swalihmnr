@@ -131,24 +131,31 @@ const muhammedSwalih = {
 - **Keep shipping** — Pagify is just the start
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammedSwalih&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
+### 📈 Contribution Graph
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swalihmnr&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedSwalih&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" height="175" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
+### 📊 GitHub Stats
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=swalihmnr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
 
-<div align="center">
+<br/><br/>
 
-[![Swalih's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammedSwalih&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF&hide_border=true&radius=8)](https://github.com/MuhammedSwalih)
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swalihmnr&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
+
+<br/><br/>
+
+### 🏆 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swalihmnr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
 
 </div>
 
@@ -158,43 +165,7 @@ const muhammedSwalih = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammedSwalih&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=4)](https://github.com/MuhammedSwalih)
-
-</div>
-
----
-
-## ⚡ Fun Facts
-
-<div align="center">
-
-| 🎨 Artist First | 📚 Language Lover | ☕ Tea > Coffee | 🎯 FAANG Dream |
-|:---:|:---:|:---:|:---:|
-| Portrait & painting | BA in Arabic + English | Kerala-style chai | Building toward it |
-
-</div>
-
----
-
-## 💡 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false)
-
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedswalih)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammedSwalih)
-[![Portfolio](https://img.shields.io/badge/Pagify-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://pagify-sigma.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhammedswalih)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammedswalih)
+[![trophy](https://github-profile-trophy.vercel.app/?username=swalihmnr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4)](https://github.com/swalihmnr)
 
 </div>
 
