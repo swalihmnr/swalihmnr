@@ -144,19 +144,19 @@ const muhammedSwalih = {
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=swalihmnr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swalihmnr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff&cache_seconds=1800" alt="GitHub Stats"/>
 
 <br/><br/>
 
 ### 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swalihmnr&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=swalihmnr&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
 <br/><br/>
 
 ### 🏆 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swalihmnr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swalihmnr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
