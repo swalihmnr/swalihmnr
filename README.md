@@ -23,7 +23,7 @@
 I'm a passionate MERN stack developer from **Malappuram, Kerala**, on a mission to become a strong backend engineer and eventually a software architect. I love breaking down complex systems, learning how they work at scale, and building things that solve real problems — whether it's a SaaS product or my next startup idea.
 
 I come from a unique background (BA in Arabic + English) and I bring that same discipline for structure and language into my code. I'm looking for a mentor or a learning environment that can guide me toward that **15+ LPA** role and FAANG-level engineering thinking.
-
+```javascript
 const muhammedSwalih = {
   aka         : ["Bro", "Beo"],
   role        : "Backend Engineer",
@@ -64,7 +64,7 @@ const muhammedSwalih = {
 
   mindset     : "Start simple, then go deep. Build for production. Think like an architect."
 };
-
+```
 ---
 
 ## 🚀 Featured Projects &nbsp; <sub>newest → oldest</sub>
