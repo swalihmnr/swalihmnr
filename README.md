@@ -24,19 +24,46 @@ I'm a passionate MERN stack developer from **Malappuram, Kerala**, on a mission 
 
 I come from a unique background (BA in Arabic + English) and I bring that same discipline for structure and language into my code. I'm looking for a mentor or a learning environment that can guide me toward that **15+ LPA** role and FAANG-level engineering thinking.
 
-```javascript
 const muhammedSwalih = {
   aka         : ["Bro", "Beo"],
   role        : "Backend Engineer",
   location    : "Malappuram, Kerala, India",
-  education   : ["BA in Arabic", "Studied English"],
-  stack       : ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "MongoDB"],
-  learning    : ["DSA", "System Design", "Scalable Web Apps", "Backend Architecture"],
-  goals       : ["15+ LPA", "Software Architect", "SaaS Founder"],
-  brandIdeas  : ["Embaric", "CaseCart", "Edge of Art", "Pagify"],
+
+  education   : [
+    "B.A. in Arabic",
+    "Advanced English Language Studies",
+    "Data Structures & Algorithms"
+  ],
+
+  stack       : [
+    "HTML5",
+    "CSS3",
+    "JavaScript (ES6+)",
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+
+  learning    : [
+    "System Design",
+    "Scalable Web Application Architecture",
+    "Backend Architecture Patterns"
+  ],
+
+  goals       : [
+    "Grow into a Software Architect role",
+    "Launch a SaaS product as a founder"
+  ],
+
+  brandIdeas  : [
+    "Embaric",
+    "CaseCart",
+    "Edge of Art",
+    "Pagify"
+  ],
+
   mindset     : "Start simple, then go deep. Build for production. Think like an architect."
 };
-```
 
 ---
 
